@@ -48,7 +48,6 @@ COUNTRY_DETAILS = {
         'id': 31,
         'legacy': 'BD',
         'mcc': 470,
-        'ratingsbody': None,
         'slug': 'bd',
         'special': False,
         'weight': 0
@@ -84,7 +83,6 @@ COUNTRY_DETAILS = {
         'id': 21,
         'legacy': 'CN',
         'mcc': 460,
-        'ratingsbody': None,
         'slug': 'cn',
         'special': True,
         'weight': 0
@@ -274,7 +272,6 @@ COUNTRY_DETAILS = {
         'id': 15,
         'legacy': 'ME',
         'mcc': 297,
-        'ratingsbody': 'ESRB',
         'slug': 'me',
         'special': False,
         'weight': 0
@@ -346,7 +343,6 @@ COUNTRY_DETAILS = {
         'id': 16,
         'legacy': 'RS',
         'mcc': 220,
-        'ratingsbody': None,
         'slug': 'rs',
         'special': False,
         'weight': 0
