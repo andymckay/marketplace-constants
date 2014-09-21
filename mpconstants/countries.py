@@ -30,7 +30,6 @@ COUNTRIES = [
 
 COUNTRY_DETAILS = {
     'ARG': {
-        'adolescent': True,
         'default_currency': 'ARS',
         'default_language': 'es',
         'id': 20,
@@ -38,19 +37,14 @@ COUNTRY_DETAILS = {
         'mcc': 722,
         'ratingsbody': 'ESRB',
         'slug': 'ar',
-        'special': False,
-        'weight': 0
     },
     'BGD': {
-        'adolescent': True,
         'default_currency': 'BDT',
         'default_language': 'en',
         'id': 31,
         'legacy': 'BD',
         'mcc': 470,
         'slug': 'bd',
-        'special': False,
-        'weight': 0
     },
     'BRA': {
         'adolescent': False,
@@ -61,11 +55,8 @@ COUNTRY_DETAILS = {
         'mcc': 724,
         'ratingsbody': 'CLASSIND',
         'slug': 'br',
-        'special': False,
-        'weight': 0
     },
     'CHL': {
-        'adolescent': True,
         'default_currency': 'CLP',
         'default_language': 'es',
         'id': 23,
@@ -73,11 +64,8 @@ COUNTRY_DETAILS = {
         'mcc': 730,
         'ratingsbody': 'ESRB',
         'slug': 'cl',
-        'special': False,
-        'weight': 0
     },
     'CHN': {
-        'adolescent': True,
         'default_currency': 'RMB',
         'default_language': 'zh-CN',
         'id': 21,
@@ -85,7 +73,6 @@ COUNTRY_DETAILS = {
         'mcc': 460,
         'slug': 'cn',
         'special': True,
-        'weight': 0
     },
     'COL': {
         'adolescent': False,
@@ -100,7 +87,6 @@ COUNTRY_DETAILS = {
         'weight': 0
     },
     'CRI': {
-        'adolescent': True,
         'default_currency': 'CRC',
         'default_language': 'es',
         'id': 27,
@@ -108,22 +94,16 @@ COUNTRY_DETAILS = {
         'mcc': 712,
         'ratingsbody': 'ESRB',
         'slug': 'cr',
-        'special': False,
-        'weight': 0
     },
     'CZE': {
-        'adolescent': True,
         'default_currency': 'CZK',
         'default_language': 'cs',
         'id': 34,
         'legacy': 'CZ',
         'mcc': 230,
         'slug': 'cz',
-        'special': False,
-        'weight': 0
     },
     'DEU': {
-        'adolescent': True,
         'default_currency': 'EUR',
         'default_language': 'de',
         'id': 14,
@@ -131,11 +111,8 @@ COUNTRY_DETAILS = {
         'mcc': 262,
         'ratingsbody': 'USK',
         'slug': 'de',
-        'special': False,
-        'weight': 0
     },
     'ECU': {
-        'adolescent': True,
         'default_currency': 'USD',
         'default_language': 'es',
         'id': 26,
@@ -143,11 +120,8 @@ COUNTRY_DETAILS = {
         'mcc': 740,
         'ratingsbody': 'ESRB',
         'slug': 'ec',
-        'special': False,
-        'weight': 0
     },
     'ESP': {
-        'adolescent': True,
         'default_currency': 'EUR',
         'default_language': 'es',
         'id': 8,
@@ -155,11 +129,8 @@ COUNTRY_DETAILS = {
         'mcc': 214,
         'ratingsbody': 'PEGI',
         'slug': 'es',
-        'special': False,
-        'weight': 0
     },
     'FRA': {
-        'adolescent': True,
         'default_currency': 'EUR',
         'default_language': 'fr',
         'id': 30,
@@ -167,11 +138,8 @@ COUNTRY_DETAILS = {
         'mcc': 208,
         'ratingsbody': 'PEGI',
         'slug': 'fr',
-        'special': False,
-        'weight': 0
     },
     'GBR': {
-        'adolescent': True,
         'default_currency': 'GBP',
         'default_language': 'en-US',
         'id': 4,
@@ -179,11 +147,8 @@ COUNTRY_DETAILS = {
         'mcc': 235,
         'ratingsbody': 'PEGI',
         'slug': 'uk',
-        'special': False,
-        'weight': 0
     },
     'GRC': {
-        'adolescent': True,
         'default_currency': 'EUR',
         'default_language': 'el',
         'id': 17,
@@ -191,11 +156,8 @@ COUNTRY_DETAILS = {
         'mcc': 202,
         'ratingsbody': 'PEGI',
         'slug': 'gr',
-        'special': False,
-        'weight': 0
     },
     'GTM': {
-        'adolescent': True,
         'default_currency': 'GTQ',
         'default_language': 'es',
         'id': 25,
@@ -203,11 +165,8 @@ COUNTRY_DETAILS = {
         'mcc': 704,
         'ratingsbody': 'ESRB',
         'slug': 'gt',
-        'special': False,
-        'weight': 0
     },
     'HUN': {
-        'adolescent': True,
         'default_currency': 'HUF',
         'default_language': 'hu',
         'id': 13,
@@ -215,23 +174,17 @@ COUNTRY_DETAILS = {
         'mcc': 216,
         'ratingsbody': 'PEGI',
         'slug': 'hu',
-        'special': False,
-        'weight': 0
     },
     'IND': {
-        'adolescent': True,
         'default_currency': 'INR',
         'default_language': 'en',
         'id': 32,
         'legacy': 'IN',
         'low_memory': True,
         'mcc': 405,
-        'ratingsbody': None,
         'slug': 'in',
-        'weight': 0
     },
     'ITA': {
-        'adolescent': True,
         'default_currency': 'EUR',
         'default_language': 'it',
         'id': 22,
@@ -239,19 +192,14 @@ COUNTRY_DETAILS = {
         'mcc': 222,
         'ratingsbody': 'PEGI',
         'slug': 'it',
-        'special': False,
-        'weight': 0
     },
     'JPN': {
-        'adolescent': True,
         'default_currency': 'JPY',
         'default_language': 'ja',
         'id': 33,
         'legacy': 'JP',
         'mcc': 440,
         'slug': 'jp',
-        'special': False,
-        'weight': 0
     },
     'MEX': {
         'adolescent': False,
@@ -262,22 +210,16 @@ COUNTRY_DETAILS = {
         'mcc': 334,
         'ratingsbody': 'ESRB',
         'slug': 'mx',
-        'special': False,
-        'weight': 0
     },
     'MNE': {
-        'adolescent': True,
         'default_currency': 'EUR',
         'default_language': 'srp',
         'id': 15,
         'legacy': 'ME',
         'mcc': 297,
         'slug': 'me',
-        'special': False,
-        'weight': 0
     },
     'NIC': {
-        'adolescent': True,
         'default_currency': 'NIO',
         'default_language': 'es',
         'id': 29,
@@ -285,11 +227,8 @@ COUNTRY_DETAILS = {
         'mcc': 710,
         'ratingsbody': 'ESRB',
         'slug': 'ni',
-        'special': False,
-        'weight': 0
     },
     'PAN': {
-        'adolescent': True,
         'default_currency': 'USD',
         'default_language': 'es',
         'id': 28,
@@ -297,11 +236,8 @@ COUNTRY_DETAILS = {
         'mcc': 714,
         'ratingsbody': 'ESRB',
         'slug': 'pa',
-        'special': False,
-        'weight': 0
     },
     'PER': {
-        'adolescent': True,
         'default_currency': 'PEN',
         'default_language': 'es',
         'id': 18,
@@ -309,11 +245,8 @@ COUNTRY_DETAILS = {
         'mcc': 716,
         'ratingsbody': 'ESRB',
         'slug': 'pe',
-        'special': False,
-        'weight': 0
     },
     'POL': {
-        'adolescent': True,
         'default_currency': 'PLN',
         'default_language': 'pl',
         'id': 11,
@@ -321,11 +254,8 @@ COUNTRY_DETAILS = {
         'mcc': 260,
         'ratingsbody': 'PEGI',
         'slug': 'pl',
-        'special': False,
-        'weight': 0
     },
     'SLV': {
-        'adolescent': True,
         'default_currency': 'USD',
         'default_language': 'es',
         'id': 24,
@@ -333,22 +263,16 @@ COUNTRY_DETAILS = {
         'mcc': 706,
         'ratingsbody': 'ESRB',
         'slug': 'sv',
-        'special': False,
-        'weight': 0
     },
     'SRB': {
-        'adolescent': True,
         'default_currency': 'RSD',
         'default_language': 'sr',
         'id': 16,
         'legacy': 'RS',
         'mcc': 220,
         'slug': 'rs',
-        'special': False,
-        'weight': 0
     },
     'URY': {
-        'adolescent': True,
         'default_currency': 'UYU',
         'default_language': 'es',
         'id': 19,
@@ -356,11 +280,8 @@ COUNTRY_DETAILS = {
         'mcc': 748,
         'ratingsbody': 'ESRB',
         'slug': 'uy',
-        'special': False,
-        'weight': 0
     },
     'USD': {
-        'adolescent': True,
         'default_currency': 'USD',
         'default_language': 'en-US',
         'id': 2,
@@ -372,7 +293,6 @@ COUNTRY_DETAILS = {
         'weight': 1
     },
     'VEN': {
-        'adolescent': True,
         'default_currency': 'USD',
         'default_language': 'es',
         'id': 10,
@@ -380,7 +300,5 @@ COUNTRY_DETAILS = {
         'mcc': 734,
         'ratingsbody': 'ESRB',
         'slug': 've',
-        'special': False,
-        'weight': 0
     },
 }
